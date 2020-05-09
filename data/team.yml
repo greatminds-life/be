@@ -1,0 +1,38 @@
+enable  : true
+title   : MEET THE INSTRUCTORS
+members  :
+  - name  : Jonathon Andrew
+    image : images/team/team-1.jpg
+    designation : Math
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.facebook.com/
+    twitter     : https://www.twitter.com/
+    linkedIn    : https://www.linkedin.com/
+    #googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Jesmin Martina
+    image : images/team/team-2.jpg
+    designation : Math
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.facebook.com/
+    twitter     : https://www.twitter.com/
+    linkedIn    : https://www.linkedin.com/
+    #googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Deu John
+    image : images/team/team-3.jpg
+    designation : Reading/writing
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.facebook.com/
+    twitter     : https://www.twitter.com/
+    linkedIn    : https://www.linkedin.com/
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Anderson Martin
+    image : images/team/team-4.jpg
+    designation : Reading/writing
+    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    facebook    : https://www.facebook.com/
+    twitter     : https://www.twitter.com/
+    linkedIn    : https://www.linkedin.com/
+    #googleplus  : https://plus.google.com/themefisher

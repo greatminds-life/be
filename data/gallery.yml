@@ -1,0 +1,8 @@
+enable  : true
+galleryImages :
+  - image : images/portfolio/writing.jpg
+  - image : images/portfolio/reading.jpg
+  - image : images/portfolio/math2.png
+  - image : images/portfolio/science.jpg
+  - image : images/portfolio/english.jpg
+  - image : images/portfolio/reading.jpg

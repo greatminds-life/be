@@ -1,0 +1,95 @@
+baseURL = "https://greatminds-life.github.io/bbtest"
+languageCode = "en-us"
+title = "Bluebook"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Service"
+url     = "service"
+weight  = 3
+#[[menu.main]]
+#name    = "Classes"
+#url     = "gallery"
+#weight  = 4
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/bluebook.png"
+dateFormat = "January 6 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Joe Jo"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/class.jpg"
+heading = "Study less, Score more"
+description = "Blue Book is an online test preparation service that students can use to practice, learn, and improve their standardized test scores. Our service is using Machine Learning and Artificial Intelligence to provide more accurate and personalized tutor services."
+# button
+btn     = true
+btnText = "Check out your score"
+btnURL  = "https://www.bluebookai.com/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "AI-powered"
+[[params.banner.flipText]]
+title   = "Coaching"
+[[params.banner.flipText]]
+title   = "Curating"
+
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "Bluebook?"
+content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras facilisis in orci non luctus. Etiam orci sapien, commodo at fringilla et, lacinia sit amet leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi sed massa odio. Phasellus placerat risus ut quam iaculis vestibulum. Nulla euismod varius velit ac facilisis. Nunc volutpat velit lectus, sit amet volutpat dolor pretium quis."
+image   = "images/about/ai.png"
+
+# Call to Action
+[params.cta]
+enable  = false
+title   = "SO WHAT YOU THINK ?"
+content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact with me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Classes"
+subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "https://www.facebook.com/"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "https://www.instagram.com/"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "https://www.linkedin.com/"
